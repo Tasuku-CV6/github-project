@@ -35,3 +35,11 @@
 1. Open your Terminal and type "git branch (name of your branch)"
 2. Type "git checkout (name of the branch)" in order to switch over to it.
 3. Shortcut: Instead of do steps 1 and 2 you can type in "git checkout -b (name of branch)" to not only create a branch but also to switch over to it.
+
+## How to merge Branches:
+
+1. Open your Terminal and type "git branch (name of your branch)" in order to create one.
+2. Type "git checkout (name of the branch)" in order to switch over to it.
+3. Commit the change but do not push.
+4. Checkout back to the main branch using "git checkout (name of the branch)"
+5. Merge the new branch into the main using "git merge (name of branch)
