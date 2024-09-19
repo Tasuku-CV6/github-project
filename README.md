@@ -27,3 +27,5 @@
 2. Make changes to the file and then save it.
 3. Once you have made the chnages, open up your terminal in VSC.
 4. Type "git add .", "git commit -m", "git push".
+
+## How do you submit pull requests:
