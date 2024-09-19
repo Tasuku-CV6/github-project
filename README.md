@@ -12,3 +12,18 @@
 8. Press Enter to create your local clone.
 
 ## How to make changes:
+
+### Chnages in Github:
+
+1. In your repository, browse to the file you want to edit.
+2. In the upper right corner of the file view, click to open the file editor.
+3. In the text box, make any changes you need to the file.
+4. Above the new content, click Preview to see the changes you made.
+5. Once you are done that, click Commit changes.
+
+### Changes in VSC:
+
+1. Open the file that you plan to make the changes on.
+2. Make changes to the file and then save it.
+3. Once you have made the chnages, open up your terminal in VSC.
+4. Type "git add .", "git commit -m", "git push".
