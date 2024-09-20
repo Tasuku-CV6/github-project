@@ -1,17 +1,3 @@
-### Projects:
-
-1. Apple: [Apple-website](https://www.apple.com/ca/)
-
-2. Azur Lane: [Azur-Lane-website](https://azurlane.yo-star.com/#/)
-
-3. Blue Archive: [Blue-Archive-website](https://bluearchive.nexon.com/home)
-
-4. Arknights: [Arknights-website](https://www.arknights.global)
-
-5. Honkai Impact Star Rail: [Star-rail-website](https://hsr.hoyoverse.com/en-us/)
-
-6. Girls Frontline: [Girls-Frontline](https://gf.sunborngame.com)
-
 ## Projects
 
 Here are some of the projects I’ve developed that showcase my skills in web development and my commitment to creating user-friendly applications.
@@ -41,3 +27,17 @@ An interactive weather dashboard that fetches smart real-time weather data based
 [View Live Demo](https://www.fusioncharts.com/dashboards/smart-weather-dashboard)
 
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions or would like to collaborate!
+
+### Projects:
+
+1. Apple: [Apple-website](https://www.apple.com/ca/)
+
+2. Azur Lane: [Azur-Lane-website](https://azurlane.yo-star.com/#/)
+
+3. Blue Archive: [Blue-Archive-website](https://bluearchive.nexon.com/home)
+
+4. Arknights: [Arknights-website](https://www.arknights.global)
+
+5. Honkai Impact Star Rail: [Star-rail-website](https://hsr.hoyoverse.com/en-us/)
+
+6. Girls Frontline: [Girls-Frontline](https://gf.sunborngame.com)
