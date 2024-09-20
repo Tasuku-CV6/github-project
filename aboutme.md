@@ -22,3 +22,16 @@ December 2020 – Present
 - I Optimized website performance and load times by implementing best practices, leading to a 20% reduction in bounce rates.
 
 - I conducted code reviews and provided mentorship to junior developers, fostering a collaborative team environment.
+
+### Frontend Developer
+
+Furit Basket INC, Calgary, Alberta
+January 2020 – May 2022
+
+- Designed and implemented user interfaces for client websites, ensuring mobile responsiveness and cross-browser compatibility.
+
+- Utilized Git for version control and collaborated with cross-functional teams to deliver projects on time and within budget.
+
+- Developed reusable components in Vue.js, which improved the efficiency of the development process and reduced code redundancy.
+
+- Participated in client meetings to gather requirements and provide technical insights, enhancing client satisfaction.
