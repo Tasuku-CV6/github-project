@@ -30,6 +30,40 @@
 
 ## How do you submit pull requests:
 
+1. Make Your Changes
+
+- Edit your files and save your changes in your branch.
+
+2. Commit Your Changes
+
+- Open the Source Control view by clicking the Source Control icon or using Ctrl + Shift + G.
+
+- Type a commit message in the input box.
+
+- Click the checkmark (✓) icon to commit your changes.
+
+3. Push Your Branch
+
+- Open the terminal in VS Code (View > Terminal or Ctrl + `).
+
+- Push your branch to the remote repository using the command git push origin your-branch-name
+
+4. Open the Pull Request
+
+- After pushing, you can typically find an option to "Create Pull Request" directly in VS Code if you're using the GitHub extension. You may see a prompt or notification after the push.
+
+- Alternatively, you can open your repository on GitHub in your web browser. GitHub usually shows a banner for creating a pull request immediately after pushing a new branch.
+
+5. Fill Out the Pull Request Form
+
+- On GitHub, you’ll see a form to fill out for your pull request:
+- Title: Provide a clear and concise title.
+- Description: Explain the changes made, why they were made, and any other relevant details.
+
+6. Create the Pull Request
+
+- Once you’ve filled out the necessary information, click the “Create Pull Request” button.
+
 ## How to create Branches:
 
 1. Open your Terminal and type "git branch (name of your branch)"
