@@ -34,10 +34,10 @@ A subscription-based streaming service that allows people to watch TV shows and 
 
 ### Project Title: Weather Dashboard
 
-An interactive weather dashboard that fetches real-time weather data based on user input and displays it in an easy-to-read format.
+An interactive weather dashboard that fetches smart real-time weather data based on user input and displays it in an easy-to-read format.
 
 **Technologies Used**: HTML, CSS, JavaScript, OpenWeather API
 
-[View Live Demo](https://yourweatherdashboard.com)
+[View Live Demo](https://www.fusioncharts.com/dashboards/smart-weather-dashboard)
 
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions or would like to collaborate!
