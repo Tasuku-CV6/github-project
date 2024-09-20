@@ -72,4 +72,4 @@
 
 - Detial-oriented: I pay close attention to details and am very observant, thorough, and productive
 
-- Self-Motivation: I demostrate the desire to grow and have confidence in my abilites while also being albe to work independently without the need for mircomanagement.
+- Work Ethic: I practice punctuality, I respect everyone's time, and lastly I try to work to the best of my ability.
