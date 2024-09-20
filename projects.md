@@ -30,14 +30,12 @@ Feel free to explore these projects, and don’t hesitate to reach out if you ha
 
 ## Other various Website Projects that I worked on:
 
-1. Apple: [Apple-website](https://www.apple.com/ca/)
+1. Azur Lane: [Azur-Lane-website](https://azurlane.yo-star.com/#/)
 
-2. Azur Lane: [Azur-Lane-website](https://azurlane.yo-star.com/#/)
+2. Blue Archive: [Blue-Archive-website](https://bluearchive.nexon.com/home)
 
-3. Blue Archive: [Blue-Archive-website](https://bluearchive.nexon.com/home)
+3. Arknights: [Arknights-website](https://www.arknights.global)
 
-4. Arknights: [Arknights-website](https://www.arknights.global)
+4. Honkai Impact Star Rail: [Star-rail-website](https://hsr.hoyoverse.com/en-us/)
 
-5. Honkai Impact Star Rail: [Star-rail-website](https://hsr.hoyoverse.com/en-us/)
-
-6. Girls Frontline: [Girls-Frontline](https://gf.sunborngame.com)
+5. Girls Frontline: [Girls-Frontline](https://gf.sunborngame.com)
