@@ -67,3 +67,5 @@
 - Accessibility: Knowledge of web accessibility standards (WCAG).
 
 - Interpersonal: I have the ability to get along with others and I love interacting with other people and working with them.
+
+- Leadership: I have the abilities and strengths in management roles that aid in guiding and encouraging a group of people and their team toward achieving a common goal or set of goals
