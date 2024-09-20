@@ -2,9 +2,9 @@
 
 Full Name: Ethan Dam
 
-Birthday: September 12 2003
+Birthday: September 12 2000
 
-Age: 21
+Age: 24
 
 Hobbies: Photography, cooking, filmmaking, writing stories, video games, learning and talking about World War era Warships, Watching and talking about Anime, and anything to do with the military.
 
@@ -13,7 +13,7 @@ Hobbies: Photography, cooking, filmmaking, writing stories, video games, learnin
 ### Web Developer
 
 ARK Company, Calgary, Alberta
-December 2020 – Present
+December 2024 – Present
 
 - I developed and maintained responsive websites using HTML, CSS, and JavaScript, enhancing user experience and engagement.
 
@@ -26,7 +26,7 @@ December 2020 – Present
 ### Frontend Developer
 
 Furit Basket INC, Calgary, Alberta
-January 2020 – May 2022
+January 2022 – May 2024
 
 - Designed and implemented user interfaces for client websites, ensuring mobile responsiveness and cross-browser compatibility.
 
@@ -35,3 +35,14 @@ January 2020 – May 2022
 - Developed reusable components in Vue.js, which improved the efficiency of the development process and reduced code redundancy.
 
 - Participated in client meetings to gather requirements and provide technical insights, enhancing client satisfaction.
+
+### Intern Web Developer
+
+SAIT Southern Alberta Institute of Technologly , Calgary, Alberta
+June 2019 – December 2019
+
+- Assisted in the development of internal tools and client websites, gaining hands-on experience in HTML, CSS, and JavaScript.
+
+- Conducted testing and debugging of web applications, ensuring functionality across various devices and browsers.
+
+- Collaborated with the design team to create visually appealing layouts, improving overall project quality.
