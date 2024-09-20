@@ -65,3 +65,5 @@
 - Web Performance Optimization: Techniques for improving load times and performance.
 
 - Accessibility: Knowledge of web accessibility standards (WCAG).
+
+- Interpersonal: I have the ability to get along with others and I love interacting with other people and working with them.
