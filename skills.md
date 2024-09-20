@@ -71,3 +71,5 @@
 - Leadership: I have the abilities and strengths in management roles that aid in guiding and encouraging a group of people and their team toward achieving a common goal or set of goals
 
 - Detial-oriented: I pay close attention to details and am very observant, thorough, and productive
+
+- Self-Motivation: I demostrate the desire to grow and have confidence in my abilites while also being albe to work independently without the need for mircomanagement.
