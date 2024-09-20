@@ -30,6 +30,8 @@ Feel free to explore these projects, and don’t hesitate to reach out if you ha
 
 ## Other various Website Projects that I worked on:
 
+- These are some of the other websites that I had worked on during my freelance days. A lot of these websites were commissioned homepages of various Japanese based Gacha games that acted as homepages and interactive information sites for the games.
+
 1. Azur Lane: [Azur-Lane-website](https://azurlane.yo-star.com/#/)
 
 2. Blue Archive: [Blue-Archive-website](https://bluearchive.nexon.com/home)
