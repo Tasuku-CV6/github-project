@@ -71,3 +71,5 @@
 - Leadership: I have the abilities and strengths in management roles that aid in guiding and encouraging a group of people and their team toward achieving a common goal or set of goals
 
 - Detial-oriented: I pay close attention to details and am very observant, thorough, and productive
+
+- Work Ethic: I practice punctuality, I respect everyone's time, and lastly I try to work to the best of my ability.
