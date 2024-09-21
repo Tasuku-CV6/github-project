@@ -8,7 +8,7 @@ Age: 24
 
 Hobbies: Photography, cooking, filmmaking, writing stories, video games, learning and talking about World War era Warships, Watching and talking about Anime, and anything to do with the military.
 
-## Professional history:
+## Professional history
 
 ### Web Developer
 

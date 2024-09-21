@@ -1,4 +1,4 @@
-## Skills
+### Skills
 
 1. ### Continuous Learning and being flexiably
 
@@ -73,3 +73,7 @@
 - Detial-oriented: I pay close attention to details and am very observant, thorough, and productive
 
 - Work Ethic: I practice punctuality, I respect everyone's time, and lastly I try to work to the best of my ability.
+
+- Creativity: Part of creative skills is creative thinking, which calls upon my imagination and also allows me to have the ability to develop unique ideas or concepts. I can also look at things differently which is important when it comes to desigining and producing.
+
+- Other languages: I am bilingual in both Chinese and Vietnmase and because of this, it can bring me several advantages as I can expand my skillset and knowlegde not only in North America but other parts of the world such as asia; Since I can also communicate with clients that might not speak english as their first language.

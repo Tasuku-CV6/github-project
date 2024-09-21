@@ -1,4 +1,4 @@
-## Main Projects
+# Main Projects
 
 Here are some of the projects I’ve developed that showcase my skills in web development and my commitment to creating user-friendly applications.
 
@@ -28,7 +28,7 @@ An interactive weather dashboard that fetches smart real-time weather data based
 
 Feel free to explore these projects, and don’t hesitate to reach out if you have any questions or would like to collaborate!
 
-## Other various Website Projects that I worked on:
+## Other various Website Projects that I worked on
 
 - These are some of the other websites that I had worked on during my freelance days. A lot of these websites were commissioned homepages of various Japanese based Gacha games that acted as homepages and interactive information sites for the games.
 
